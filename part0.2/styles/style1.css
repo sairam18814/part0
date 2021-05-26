@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+    text-align: center;
+    text-shadow: 3px 3px 1px black;
+}
+
+p {
+    font-color: purple;
+}
+
+body {
+    background-color: lightblue;
+}
